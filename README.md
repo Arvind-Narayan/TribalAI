@@ -5,4 +5,4 @@
  ### Project Demo:
 
 
-https://youtu.be/eZ8NjFMM_Ns
+[![Watch the video](https://img.youtube.com/vi/eZ8NjFMM_Ns/maxresdefault.jpg)](https://youtu.be/eZ8NjFMM_Ns)
