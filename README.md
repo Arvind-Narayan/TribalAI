@@ -5,4 +5,4 @@
  ### Project Demo:
 
 
-https://github.com/Arvind-Narayan/TribalAI/blob/main/Demo%20of%20TribalAI.mp4
+https://youtu.be/eZ8NjFMM_Ns
