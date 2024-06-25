@@ -1,10 +1,10 @@
 # TribalAI
  An AI that can chat with your organizational data stored in Notion
 
- Using: 
-  -- GPT 3.5 Turbo, 
-  -- LangChain, 
-  -- ChromaDB
+ ### Tools: 
+  - GPT 3.5 Turbo, 
+  - LangChain, 
+  - ChromaDB
 
  ### Project Demo:
 
